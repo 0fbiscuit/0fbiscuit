@@ -15,7 +15,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0fbiscuit&layout=compact&theme=radical&size_weight=1&count_weight=1&card_width=495&langs_count=7&hide=handlebars,css,scss,html" alt="Top Langs" />
 </p>
 
-<a href="https://app.hackthebox.com/profile/2250539" target="_blank">
-    <img class="my-0 rounded-md medium-zoom-image" loading="lazy" alt="Chepycou" src="https://www.hackthebox.eu/badge/image/2250539">
+<a href="" target="_blank">
+    <img class="my-0 rounded-md medium-zoom-image" loading="lazy" alt="Chepycou" src="">
 </a>
 
