@@ -16,7 +16,7 @@
 </p>
 
 <a href="https://app.hackthebox.com/profile/2250539" target="_blank">
-  <img src="https://www.hackthebox.eu/badge/image/2250539" alt="Hack The Box" />
+  <img src="https://www.hackthebox.eu/badge/image/2250539" loading="lazy" alt="Chepycou" />
 </a>
 
 
